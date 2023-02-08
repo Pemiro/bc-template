@@ -85,7 +85,7 @@
     },
     "acceptEula": {
       "type": "string",
-      "defaultValue": "N",
+      "defaultValue": "Y",
       "allowedValues": [
         "Y",
         "N"
